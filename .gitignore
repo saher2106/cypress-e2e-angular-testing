@@ -1,0 +1,35 @@
+# Dependency directories
+node_modules/
+dist/
+
+# IDE and OS files
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Environment files
+.env
+.env.local
+
+# Build files
+*.js.map
+*.css.map
+*.ngsummary.json
+*.ngfactory.ts
+
+# Test coverage
+coverage/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Angular cache
+.cache/
+.angular/
+
+# Temporary files
+tmp/
+temp/
